@@ -24,6 +24,6 @@ var DataBindingForm = React.createClass({
 
 ReactDOM.render(
     <DataBindingForm />,
-    document.getElementById('container')
+    document.getElementById('appContainer')
 );
 
